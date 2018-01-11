@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_icon.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_white.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/com_facebook_button_send_icon.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/home/thinh/project/SmartController/controller/android/.build/intermediates/res/merged/debug/drawable-xxhdpi-v4/messenger_bubble_small_white.png",
+        "source": "/home/thinh/project/SmartController/controller/android/.build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    }
+]

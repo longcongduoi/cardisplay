@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>qml/FlatButton.qml</file>
+        <file>qml/IconButton.qml</file>
+        <file>qml/PaperRipple.qml</file>
+        <file>qml/PaperShadow.qml</file>
+        <file>qml/TextField.qml</file>
+        <file>qml/VListView.qml</file>
+        <file>qml/VTextStyle.qml</file>
+        <file>qml/TabBarPage.qml</file>
+        <file>qml/ETaskBar.qml</file>
+        <file>qml/VSearchDevice.qml</file>
+        <file>qml/VListDevice.qml</file>
+        <file>qml/VUser.qml</file>
+        <file>qml/VSetting.qml</file>
+        <file>qml/VListMessage.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/search.png</file>
+        <file>images/setting.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
